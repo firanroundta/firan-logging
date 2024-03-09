@@ -1,0 +1,4 @@
+*.* linguist-language=TypeScript
+* text=auto
+index.js linguist-generated
+index.d.ts linguist-generated
